@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Projet_UE4_F2_2021",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
